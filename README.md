@@ -44,7 +44,7 @@ pip install -r requirements-azure.txt
 ## 3. Configure (`.env`)
 
 ```bash
-cp .env.example .env
+cp env.example.txt .env
 chmod 600 .env                       # keep your token private
 ```
 
